@@ -14,8 +14,11 @@ public class exer4 {
 		}
 		
 		for(i=0; i<10; i++) {
-			 	
-			
+		if(i2 % 2 == 0) {
+
+		System.out.println(a[i]+" = "+i2 );
+				}
+			}
 			
 			
 		}
